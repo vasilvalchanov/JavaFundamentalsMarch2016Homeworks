@@ -1,0 +1,6 @@
+G:\Visual Studio Projects\02.MethodsHomework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe.config
+G:\Visual Studio Projects\02.MethodsHomework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe
+G:\Visual Studio Projects\02.MethodsHomework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.pdb
+G:\Visual Studio Projects\02.MethodsHomework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.csprojResolveAssemblyReference.cache
+G:\Visual Studio Projects\02.MethodsHomework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.exe
+G:\Visual Studio Projects\02.MethodsHomework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.pdb
