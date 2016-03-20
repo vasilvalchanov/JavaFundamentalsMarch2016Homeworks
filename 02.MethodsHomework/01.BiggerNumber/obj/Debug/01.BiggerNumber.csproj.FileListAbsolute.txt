@@ -1,6 +1,0 @@
-G:\Visual Studio Projects\02.MethodsHomework\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe.config
-G:\Visual Studio Projects\02.MethodsHomework\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe
-G:\Visual Studio Projects\02.MethodsHomework\01.BiggerNumber\bin\Debug\01.BiggerNumber.pdb
-G:\Visual Studio Projects\02.MethodsHomework\01.BiggerNumber\obj\Debug\01.BiggerNumber.csprojResolveAssemblyReference.cache
-G:\Visual Studio Projects\02.MethodsHomework\01.BiggerNumber\obj\Debug\01.BiggerNumber.exe
-G:\Visual Studio Projects\02.MethodsHomework\01.BiggerNumber\obj\Debug\01.BiggerNumber.pdb

@@ -1,6 +1,0 @@
-G:\Visual Studio Projects\02.MethodsHomework\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe.config
-G:\Visual Studio Projects\02.MethodsHomework\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe
-G:\Visual Studio Projects\02.MethodsHomework\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.pdb
-G:\Visual Studio Projects\02.MethodsHomework\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
-G:\Visual Studio Projects\02.MethodsHomework\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.exe
-G:\Visual Studio Projects\02.MethodsHomework\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.pdb

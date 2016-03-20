@@ -1,6 +1,0 @@
-G:\Visual Studio Projects\02.MethodsHomework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
-G:\Visual Studio Projects\02.MethodsHomework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
-G:\Visual Studio Projects\02.MethodsHomework\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
-G:\Visual Studio Projects\02.MethodsHomework\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
-G:\Visual Studio Projects\02.MethodsHomework\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb
-G:\Visual Studio Projects\02.MethodsHomework\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
